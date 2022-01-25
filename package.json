@@ -28,5 +28,16 @@
     "webpack": "^5.66.0",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.7.3"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m45r7/my-webpack-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m45r7/my-webpack-init/issues"
+  },
+  "homepage": "https://github.com/m45r7/my-webpack-init#readme"
 }
